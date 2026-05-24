@@ -707,7 +707,7 @@
             <div style="display:flex;gap:40px;flex:1;justify-content:flex-end;flex-wrap:wrap">
                 <div>
                     <div style="font-weight:700;margin-bottom:8px">Company</div>
-                    <div class="muted" style="line-height:1.8">About<br>Careers<br>Press</div>
+                    <div class="muted" style="line-height:1.8">About<br>Vinay career section<br>Press</div>
                 </div>
                 <div>
                     <div style="font-weight:700;margin-bottom:8px">Support</div>
