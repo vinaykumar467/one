@@ -24,6 +24,7 @@
 		</dependency>
 
 	</dependencies>
+	
 	<repositories>
 		<repository>
   <id>mydevops-feed</id>
@@ -39,7 +40,7 @@
 	<distributionManagement>
 		 <snapshotRepository>
 		    <id>nexusRepo</id>
-		    <url>http://34.208.218.12:8081/repository/sample-snapshots/</url>
+		    <url>http://54.234.55.106:8081/repository/myrepo/</url>
 		 </snapshotRepository>
 		
 		<repository>
